@@ -1,0 +1,13 @@
+#main{
+    margin-left: 214px;
+}
+
+
+
+@media screen and (max-width: 800px) {
+    #main{
+        margin-left: 67px;
+    }
+  }
+
+  
