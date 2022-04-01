@@ -33,7 +33,3 @@ window.onload = fadeOut();
 
 
 
-<<<<<<< HEAD
-//class="d-inline-block align-text-top
-=======
->>>>>>> b7aff23 (code commit)
