@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;1,300;1,400;1,600&family=Roboto:wght@500&display=swap');
+
+label{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+inputtext{
+border-color: rgb(21, 29, 59);
+}
